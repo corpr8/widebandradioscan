@@ -6,3 +6,5 @@ Script will automatically run scans between 50Mhz and 350Mhz at 1 Khz intervals 
 Note: Only tested on Raspberry PI2 (I ported the script across from a Beaglebone and it needed lots of work).
 
 Note: Current script assumes an output directory of ../netStorage 
+
+USAGE: sh ./megaSweep.sh
