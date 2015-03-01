@@ -1,0 +1,36 @@
+body{
+	background: #000;
+	margin-left: 0px;
+}
+
+/*
+::-webkit-scrollbar { 
+	display: none; 
+}
+*/
+
+h1{
+	color: #ccc;
+	margin-left: 10px;
+}
+
+h2{
+	color: #000;
+}
+
+.surveySegment{
+	float: left; 
+	width: 20%;
+}
+
+.wideSurvey{
+	width: 60000px;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0;
+	height: 40px;
+	background: #bbb;
+	color: #000;
+}
